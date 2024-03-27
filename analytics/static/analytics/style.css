@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+}
+
+#spinner {
+    display: none;
+}
